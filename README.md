@@ -2,7 +2,7 @@
 
 <img align="right" src="https://i.imgur.com/nhkjX8U.png" width="300" height="300"/>
 
-[![Balaclava's GitHub stats](https://github-readme-stats.vercel.app/api?username=balasclava&show_icons=true&count_private=true&theme=graywhite&hide_border=false&custom_title=Check%20some%20stats!%20⚙️)](https://www.discord.gg/8DVKzDf9cZ)
+[![Balaclava's GitHub stats](https://github-readme-stats.vercel.app/api?username=balasclava&show_icons=true&hide=prs&count_private=true&theme=graywhite&hide_border=false&custom_title=Check%20some%20stats!%20⚙️)](https://www.discord.gg/8DVKzDf9cZ)
 
 #
 
