@@ -2,7 +2,7 @@
 
 <img align="right" src="https://i.imgur.com/nhkjX8U.png" width="300" height="300"/>
 
-[![Balaclava's GitHub stats](https://github-readme-stats.vercel.app/api?username=balasclava&show_icons=true&hide=prs&count_private=true&theme=graywhite&hide_border=false&custom_title=Check%20some%20stats!%20⚙️)](https://www.discord.gg/8DVKzDf9cZ)
+[![stats](https://github-readme-stats.vercel.app/api?username=balasclava&show_icons=true&hide=prs&count_private=true&theme=graywhite&hide_border=false&custom_title=Check%20some%20stats!%20⚙️)](https://www.discord.gg/8DVKzDf9cZ)
 
 #
 
@@ -25,3 +25,8 @@
 ![social2](https://img.shields.io/static/v1?logo=discord&label=&message=Balaclava%231912&color=black&logoColor=white&style=flat)
 - ![riot](https://img.shields.io/static/v1?logo=Quantcast&label=&message=What%20do%20I%20like%20to%20do?&color=black&logoColor=white&style=flat)
 ![riot1](https://img.shields.io/static/v1?label=&message=Make%20some%20Discord%20Bots!&color=black&logoColor=white&style=flat)
+
+#
+
+### `💨` `Tracking since: 03/15/2022`
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=balaclava)](https://www.discord.gg/8DVKzDf9cZ)
