@@ -25,5 +25,3 @@
 ![social2](https://img.shields.io/static/v1?logo=discord&label=&message=Balaclava%231912&color=black&logoColor=white&style=flat)
 - ![riot](https://img.shields.io/static/v1?logo=Quantcast&label=&message=What%20do%20I%20like%20to%20do?&color=black&logoColor=white&style=flat)
 ![riot1](https://img.shields.io/static/v1?label=&message=Make%20some%20Discord%20Bots!&color=black&logoColor=white&style=flat)
-
-#
