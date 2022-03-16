@@ -29,4 +29,4 @@
 #
 
 ### `💨` `Tracking since: 03/15/2022`
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=balaclava)](https://www.discord.gg/8DVKzDf9cZ)
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=@balaclava)](https://wakatime.com/@balaclava)
