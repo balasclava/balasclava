@@ -33,7 +33,7 @@
   <summary>🌊 Click! (Tracking since: 03/15/2022) </summary>
   ㅤ
   
-  [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=89c5e1c8-9e67-43ef-bd0e-3ff9a4fde5e2)](https://wakatime.com/@balinhas_code)
+  [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=89c5e1c8-9e67-43ef-bd0e-3ff9a4fde5e2)](https://wakatime.com/@89c5e1c8-9e67-43ef-bd0e-3ff9a4fde5e2)
   
   [![streak](http://github-readme-streak-stats.herokuapp.com?user=balasclava&theme=github-dark-blue&date_format=n%2Fj%5B%2FY%5D&background=FFFFFF&stroke=4F94EF&currStreakLabel=4F94EF&currStreakNum=505963&sideNums=4F94EF&sideLabels=4F94EF&border=DDDBDB)](https://github.com/balasclava)
   
